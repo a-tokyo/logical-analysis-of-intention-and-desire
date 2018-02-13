@@ -185,26 +185,232 @@
   \end{example}
 \end{frame}
 
-\subsection{Occurent and Standing intentions}
+\subsection{Occurrent and Standing intentions}
+\begin{frame}{Goldman's Distinction}
+ \begin{theorem}{Goldman's Distinction}
+   An Occurrent want is a mental event or prices; it is a ‘going on’ or ‘happening’ in consciousness. A standing want is a disposition to have an Occurrent want , a disposition that lasts with the agent for a reasonable length of time.
+ \end{theorem}
+ \begin{example}
+   We can say that John wants to be president of his company because he has a disposition to have occurrent wants to this effect. This disposition is present, though it is not being manifested.
+  \end{example}
+\end{frame}
+
+\begin{frame}{Problems with Goldman's Distinction}
+ \begin{block}{Goldman’s way of drawing the distinction is problematic}
+   An important part missing is to mark is the difference between: \\
+   (1) desires to A (or for X) that are wholly constituted by dispositions to have desires to A (or for X) that manifest these dispositions. \\
+   (2) desires that are functionally more closely connected to action than such dispositions are.
+ \end{block}
+ \begin{example}
+   The characteristic functional role of Beth’s standing desire for a career in biology is to contribute to her having occurrent desires for a career in biology. Her standing desire’s functional connection to action features its contributing to her having occurrent desires that manifest it. But not all desires with a more direct connection to action are present to consciousness.
+  \end{example}
+\end{frame}
+
+\begin{frame}{Problems with Goldman's Distinction}
+ \begin{example}
+   Carl might have spoken to Debra as he did because he wanted to hurt her feelings, even though he was not conscious at the time of a desire to do that. Carl might not have had a standing desire to hurt Debra’s feelings.But if he did have one,and if it played the role characteristic of standing desires, it was manifested in a desire of another kind to hurt her feelings an occurrent desire to do that.
+  \end{example}
+  \begin{block}{Implausibility}
+   Goldman implausibly makes being “a ‘going on’ or ‘happening’ in consciousness” an essential feature of occurrent wants or desires. \\
+   An agent being conscious of a desire is not required for the desire playing a role in action production that suffices for it not being a standing desire thus an Occurrent one.
+  \end{block}
+\end{frame}
 
 % You can reveal the parts of a slide one at a time
 % with the \pause command:
-\begin{frame}{Second Slide Title}
-  \begin{itemize}
-  \item {
-    My first point.
-  }
-  \item {
-    My second point.
-  }
-  \end{itemize}
+\begin{frame}{Standing desires, intentions, and beliefs}
+    \begin{block}{Standing desires, intentions, and beliefsm}
+   Are wholly constituted by dispositions of certain kinds to have corresponding occurrent desires, intentions, and beliefs.
+  \end{block}
+  \begin{example}
+  A standing belief that p is wholly constituted by a disposition of a certain kind to have occurrent beliefs that p.
+  \end{example}
+\end{frame}
+
+\begin{frame}{Proximal Intentions, A revisit}
+\begin{itemize}
+  \item In typical instances, agents begin executing their proximal intentions almost as soon as they acquire them.
+   \item If standing intentions to A are wholly constituted by dispositions to have occurrent intentions to A, then, because such dispositions are not executable, no executed intention is a standing intention.
+   \item And simply in virtue of its being executed at a time, a proximal intention has a claim to being an occurrent intention at that time.
+   \item All executed intentions are occurrent intentions.
+ \end{itemize}
+\end{frame}
+
+\begin{frame}{Distal Intentions, A revisit}
+\begin{itemize}
+  \item Many of them are intentions for prospective actions 
+   \item Acquisition may have significant practical effects in the immediate future.
+ \end{itemize}
+    \begin{example}
+    An intention generating another intention, the first intention has the claim to be Occurrent at the time.
+  \end{example}
+\end{frame}
+
+\begin{frame}{An example}
+\begin{itemize}
+  \item My daughter calls at noon, asks me for a movie at 7pm
+  \item I write a note to remind myself
+  \item I remember at 6:30 without looking at the note
+  \item Did my intention to M presist from noon to 7pm? and If it did, did it persist as an occurrent intention throughout that span of time?
+ \end{itemize}
+\end{frame}
+
+\begin{frame}{Revisiting Goldman's account}
+\begin{itemize}
+  \item If occurrent intentions were to be defined as intentions of which the agent is conscious it would be clear that my intention to M did not persist as an occurrent intention from noon into the evening.
+  \item I was not conscious of that intention throughout the entire span
+  \item Carl might have spoken to Debra as he did because he intended to hurt her feelings, even though he was not conscious at the time of his intention
+ \end{itemize}
+\end{frame}
+
+\begin{frame}{Occurrent Intentions}
+\begin{block}{Occurrent Intentions}
+Being nondeviantly at work at a time in initiating, sustaining, or guiding A-ings of theirs that are being initiated at that time or are in progress at the time is sufficient to be an Occurrent intention. \\
+However, one need not actually A at atime in order for one’s intention to A to be occurrent at that time; one might try to A and fail.
+\end {block}
+\begin{itemize}
+    \item An occurrent intention to A may be at work in producing intentions and actions that are preparatory to one’s A-ing.
+    \item Being aware of an intention to A that one has or being aware that one intends to A may also be regarded as a conceptually sufficient condition of the intention being occurrent at the time.
+    \item If there are both occurrent and nonoccurrent intentions to A, The intention presisting from noon to lunch is more likely the latter.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Standing Intentions}
+\begin{block}{Standing Intentions}
+If standing intentions to A are understood on the model of a familiar conception of standing wants, they are wholly constituted by dispositions to have occurrent intentions to A. Now, not all dispositions to have occurrent intentions to A are promising candidates for being intentions.
+\end {block}
 \end{frame}
 
 \section{Persisting Occurrent Intentions}
+\subsection{Account of persisting occurrent intentions}
 
-\subsection{Another Subsection}
+\begin{frame}{Occurrent Intentions}{Sufficient Conditions}
+\begin{itemize}
+    \item Intention is suitably at work at that time in producing relevant intentional actions or preparatory intentional actions
+    \item At that time the agent is aware that he intends to A and this intentions is not wholly constituted by a dispositio n to have occurrent intentions to A.
+    \item A persists as an occurrent intention to A as long as it is suitably at work or is a conscious intention that satisfies condition 2.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Occurrent Intentions}{Representation}
+\begin{block}{Occurrent intentions and plans}
+Occurrent intentions are executive attitudes toward plans. \\
+They have representational content, which is an action-plan. \\
+An agent who successfully executes an occurrent intention is guided by the intention-embedded plan.
+\end{block}
+\begin{example}
+The intention to check her e-mail that Jan executed this evening incorporated a plan that included clicking on her e-mail icon, then typing her password in a certain box, then clicking on the “OK” box.
+\end{example}
+\end{frame}
+
+\begin{frame}{Occurrent Intentions}{Orientation}
+\begin{itemize}
+    \item The executive dimension of occurrent intentions is intrinsic to the attitudinal orientation intending.
+    \item We can have a variety of attitudes toward plans.
+    \item To have the intending attitude toward a plan is to be settled (but not necessarily irrevocably) on executing it.
+    \item  Someone who desires to A, even someone who desires this more strongly than he desires not to A may still be deliberating about whether to A in which case he is not settled on Aing.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Occurrent Intentions}{Desire}
+\begin{itemize}
+    \item Occurrent intentions to A essentially encompass motivation to A,but without being reducible to a combination of desire and belief
+    \item Part of what it is to besettled  on A-ing is to have a motivation encompassing attitude toward A-ing
+    \item  Lacking such an attitude, one lacks an element of a psychological commitment to A-ing that is intrinsic to being settled on A-ing, and therefore to having an occurrent intention to A.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Occurrent Intentions}{Beliefs}
+\begin{itemize}
+    \item S intends to A only if S lacks the beliefs that he will not A and that he probably will not A
+    \item An agent may have an executive attitude toward a plan for A-ing without having an intention to A
+\end{itemize}
+\begin{example}
+A golfer may have an executive attitude toward a plan for sinking a putt that he believes he probably will miss.
+\end{example}
+\end{frame}
+
+
+\subsection{Presisting of intentions}
+\begin{frame}{Presisting Conditions}
+\begin{itemize}
+    \item whether an occurrent intention to A persists depends, among other things, on whether the agent acquires a belief that he probably will not A.
+    \item An agent who intends to unlock his office door may try, fail, and try again. After another attempt or two, he may come to believe that he probably will not unlock it and try again anyway.
+    \item Acquisition of this belief suffices for the nonpersistence of his intention to unlock the door.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Presisting things, changing}
+\begin{block}{In what ways can an occurrent intention change while it persists?}
+An occurrent intention cannot persist while no longer being an executive attitude or while no longer having a plan as its content. \\
+\end{block}
+\begin{block}{Plan changes}
+- Addition \\
+- Substitution \\
+- Fork Resolution \\
+
+The intention that was being executed does not survive the change, owing to the agent’s having opted against a node in his original plan in favor of a course of action that was not in his plan.
+\end{block}
+\end{frame}
+
+\begin{frame}{Different timings, same intentions?}
+\begin{block}{What does it take for two intentions to be the same?}
+The question is whether an occurrent intention N1 that one has at t1 and an oc- current intention N2 that one has at a later time t2 need to have the same plan-component in order to be the same occurrent intention? \\
+If Correct, then OIP holds true
+\end{block}
+\begin{theorem}{OIP}
+Occurrent intention N1 at t1 and occurrent intention N2 at t2 are the same occurrent intention only if they have the same plan-component.
+\end{theorem}
+\end{frame}
+
+\begin{frame}{OIP analysis}{Biconditionality}
+\begin{block}{Can OIP be biconditional?}
+The question is whether an occurrent intention N1 that one has at t1 and an oc- current intention N2 that one has at a later time t2 need to have the same plan-component in order to be the same occurrent intention? \\
+If Correct, then OIP holds true
+\end{block}
+\begin{block}{OIP}
+A biconditional version of OIP is implausible.
+\end{block}
+\end{frame}
+
+\begin{frame}{OIP analysis}{OIPa}
+\begin{theorem}{OIPa}
+Occurrent intention N1 at t1 and occurrent intention N2 at t2 are the same occurrent intention if and only if they have the same plan-component
+\end{theorem}
+\begin{example}
+A counter example is as follows, \\
+- The noon intention and the 7pm intention of taking Angela to the movies have the same plan components. However, it is implausible that an occurrent intention to take Angela to a 7:00 movie persists as an occurrent intention from noon into the evening. \\
+- Two intentions may have the same plan component even though one is an intention to A and the other is instead an intention to try to A.
+\end{example}
+\end{frame}
+
+\begin{frame}{Presisting intentions}{OIPb}
+\begin{theorem}{OIPa}
+In an agent S, occurrent intention N1 at t1 and occurrent intention N2 at t2 are the same occurrent intention if and only if \\ 
+(1) they have the same plan-component \\
+(2) there is no time between t1 and t2 at which no intention with that plan-component is suitably at work in S in producing intentional actions performed by S or in producing items appropriate for the production of intentional actions by S or is a conscious non-standing intention \\
+(3) between t1and t2 S undergoes no change of belief that would suffice for an intention with that plan-component being a different intention from N1
+\end{theorem}
+\end{frame}
+
 
 \section{Persisting Short-Term Standing Intentions}
+\subsection{Account for persisting standing intentions}
+
+\begin{frame}{Intention State}
+\begin{block}{In what state did the intention persist?}
+After putting the broom and dustpan away, Al paused because he forgot what he intended to do next. If Al had had an intention to put the corkscrew away he would have put it away then. Similarly, if he had had a conscious non-standing intention to put the corkscrew away then, he would have put it away then. Instead, he paused to try to recall what he intended to do next.
+\end{block}
+\begin{block}{Open options}
+- AI has a persisting standing intention to put the corkscrew away \\ - AI has a persisting intention to do this that is occurrent at some times but not occurrent at others. \\
+- AI has no persisting intention at all to do this. \\
+
+Even while Al has temporarily forgotten what he intended to do, he may have a disposition to recall that he intended to put the corkscrew away.
+\end{block}
+\end{frame}
+
+% SB. A disposition to have occurrent beliefs that p is a standing belief that p if and only if the person’s acquiring an occurrent belief that p played a role in producing the disposition
+
 
 % Placing a * after \section means it will not show in the
 % outline or table of contents.
