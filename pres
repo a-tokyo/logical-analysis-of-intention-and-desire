@@ -100,13 +100,89 @@
   % You might wish to add the option [pausesections]
 \end{frame}
 
+
+\section{Motivation}
+\begin{frame}{A live preview}
+  \begin{block}{AI and the Corkscrew.}
+   Did Al have an intention to put the corkscrew away that persisted from the time he acquired the intention until he put the corkscrew away?
+  \end{block}
+\end{frame}
+\begin{frame}{Assumptions}
+  \begin{itemize}
+  \item {
+     Intentions exist.
+  }
+  \item {
+    Anyone who intends to A has an intention to A.
+  }
+  \item {
+   Some causal account or other of the production of intentional actions is correct,.
+  }
+  \item {
+    More specifically, some such account according to which whenever agents act intentionally, at least one of the following does important causal work: some intention of theirs,
+    the acquisition or persistence of some intention of theirs,
+    or the neural correlate of one or more of the preceding items.
+  }
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Aim}
+ \begin{block}{Aim}
+  Contributing to our growing understanding of the place of intentions in the lives of intelligent agents
+ \end{block}
+  \begin{itemize}
+  \item {
+     Developing accounts of what it is for an intention to be occurrent.
+  }
+  \item {
+    Developing accounts of the persistence of an occurrent intention.
+  }
+  \item {
+   Something similar alongside some proposals for relatively short-term “standing” intentions.
+  }
+  \end{itemize}
+
+\end{frame}
+
 % Section and subsections will appear in the presentation overview
 % and table of contents.
-\section{First Main Section}
+\section{Kinds of Intention}
 
-\subsection{First Subsection}
+\begin{frame}{What is an intention?}
+ \begin{block}{In what does the persistence of an intention consist?}
+  Developing an account of intentions is a project in its own right, therefore for now, understand intentions however you want, given that the assumptions stated above hold true.
+ \end{block}
+\end{frame}
 
-\begin{frame}{First Slide Title}{Optional Subtitle}
+\subsection{Proximal and Distal intentions}
+
+\subsection{Occurent and Standing intentions}
+
+% You can reveal the parts of a slide one at a time
+% with the \pause command:
+\begin{frame}{Second Slide Title}
+%   \begin{itemize}
+%   \item {
+%     First item.
+%     \pause % The slide will pause after showing the first item
+%   }
+%   \item {   
+%     Second item.
+%   }
+%   % You can also specify when the content should appear
+%   % by using <n->:
+%   \item<3-> {
+%     Third item.
+%   }
+%   \item<4-> {
+%     Fourth item.
+%   }
+%   % or you can use the \uncover command to reveal general
+%   % content (not just \items):
+%   \item<5-> {
+%     Fifth item. \uncover<6->{Extra text in the fifth item.}
+%   }
+%   \end{itemize}
   \begin{itemize}
   \item {
     My first point.
@@ -117,38 +193,10 @@
   \end{itemize}
 \end{frame}
 
-\subsection{Second Subsection}
-
-% You can reveal the parts of a slide one at a time
-% with the \pause command:
-\begin{frame}{Second Slide Title}
-  \begin{itemize}
-  \item {
-    First item.
-    \pause % The slide will pause after showing the first item
-  }
-  \item {   
-    Second item.
-  }
-  % You can also specify when the content should appear
-  % by using <n->:
-  \item<3-> {
-    Third item.
-  }
-  \item<4-> {
-    Fourth item.
-  }
-  % or you can use the \uncover command to reveal general
-  % content (not just \items):
-  \item<5-> {
-    Fifth item. \uncover<6->{Extra text in the fifth item.}
-  }
-  \end{itemize}
-\end{frame}
-
-\section{Second Main Section}
+\section{Persisting Occurrent Intentions}
 
 \subsection{Another Subsection}
+assaas
 
 \begin{frame}{Blocks}
 \begin{block}{Block Title}
@@ -162,6 +210,8 @@ Here is an example of an example block.
 \end{example}
 \end{frame}
 
+\section{Persisting Short-Term Standing Intentions}
+
 % Placing a * after \section means it will not show in the
 % outline or table of contents.
 \section*{Summary}
@@ -169,11 +219,11 @@ Here is an example of an example block.
 \begin{frame}{Summary}
   \begin{itemize}
   \item
-    The \alert{first main message} of your talk in one or two lines.
+    A position on \alert{what it is for an intention to be an occurrent intention at a time and an account of the persistence of occurrent intentions to A as occurrent intentions to A}.
   \item
-    The \alert{second main message} of your talk in one or two lines.
+    A sufficient condition for \alert{something’s being a standing intention to A}.
   \item
-    Perhaps a \alert{third message}, but not more than that.
+    Discussion of \alert{Relatively short-term standing intentions}.
   \end{itemize}
   
   \begin{itemize}
@@ -181,9 +231,7 @@ Here is an example of an example block.
     Outlook
     \begin{itemize}
     \item
-      Something you haven't solved.
-    \item
-      Something else you haven't solved.
+      Explore long term counterparts of persisting standing intentions.
     \end{itemize}
   \end{itemize}
 \end{frame}
@@ -204,19 +252,9 @@ Here is an example of an example block.
   % Start with overview books.
 
   \bibitem{Author1990}
-    A.~Author.
-    \newblock {\em Handbook of Everything}.
-    \newblock Some Press, 1990.
- 
-    
-  \beamertemplatearticlebibitems
-  % Followed by interesting articles. Keep the list short. 
-
-  \bibitem{Someone2000}
-    S.~Someone.
-    \newblock On this and that.
-    \newblock {\em Journal of This and That}, 2(1):50--100,
-    2000.
+    A.~Mele.
+    \newblock {\em Persisting Intentions}.
+    \newblock Florida State University, 2007.
   \end{thebibliography}
 \end{frame}
 
