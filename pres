@@ -155,34 +155,41 @@
 \end{frame}
 
 \subsection{Proximal and Distal intentions}
+\begin{frame}{Proximal Intentions}
+ \begin{block}{Proximal Intentions}
+   A proximal intention to A is an intention to A now. \\
+   Proximal intentions also include intentions to continue doing something one is presently doing and intentions to start A-ing
+ \end{block}
+ \begin{example}
+   An intention to answer one’s phone now \\
+   An intention to start running a mile right away
+  \end{example}
+\end{frame}
+
+\begin{frame}{Distal Intentions}
+ \begin{block}{Distal Intentions}
+   Distal intentions are intentions agents have at a time for (and only for) action in the non-immediate future.
+ \end{block}
+ \begin{example}
+   The intention I have now, at noon, to take my daughter to a 7:00 movie tonight.
+  \end{example}
+\end{frame}
+
+\begin{frame}{Mixed Intentions}
+ \begin{block}{Mixed Intentions}
+   Some intentions have both proximal and distal aspects. \\
+   An intention of this kind specifies something to be done now and something to be done later.
+ \end{block}
+ \begin{example}
+   Al may have an intention to run a mile without stopping, beginning now. (He estimates that the deed will take six minutes.)
+  \end{example}
+\end{frame}
 
 \subsection{Occurent and Standing intentions}
 
 % You can reveal the parts of a slide one at a time
 % with the \pause command:
 \begin{frame}{Second Slide Title}
-%   \begin{itemize}
-%   \item {
-%     First item.
-%     \pause % The slide will pause after showing the first item
-%   }
-%   \item {   
-%     Second item.
-%   }
-%   % You can also specify when the content should appear
-%   % by using <n->:
-%   \item<3-> {
-%     Third item.
-%   }
-%   \item<4-> {
-%     Fourth item.
-%   }
-%   % or you can use the \uncover command to reveal general
-%   % content (not just \items):
-%   \item<5-> {
-%     Fifth item. \uncover<6->{Extra text in the fifth item.}
-%   }
-%   \end{itemize}
   \begin{itemize}
   \item {
     My first point.
@@ -196,19 +203,6 @@
 \section{Persisting Occurrent Intentions}
 
 \subsection{Another Subsection}
-assaas
-
-\begin{frame}{Blocks}
-\begin{block}{Block Title}
-You can also highlight sections of your presentation in a block, with it's own title
-\end{block}
-\begin{theorem}
-There are separate environments for theorems, examples, definitions and proofs.
-\end{theorem}
-\begin{example}
-Here is an example of an example block.
-\end{example}
-\end{frame}
 
 \section{Persisting Short-Term Standing Intentions}
 
