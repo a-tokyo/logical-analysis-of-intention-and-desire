@@ -409,7 +409,47 @@ Even while Al has temporarily forgotten what he intended to do, he may have a di
 \end{block}
 \end{frame}
 
-% SB. A disposition to have occurrent beliefs that p is a standing belief that p if and only if the person’s acquiring an occurrent belief that p played a role in producing the disposition
+
+\begin{frame}{Occurent and Standing Beliefs}
+\begin{block}{Motivation}
+If recalling this is sufficient to generate a proximal intention to put the corkscrew away, is Al plausibly regarded as having, for some time, a standing intention to put it away when he finishes sweeping the floor—a standing intention to C? \\
+Al’s disposition to have occurrent intentions to C was produced in part by his acquiring an occurrent intention to C.
+\end{block}
+\begin{theorem}{SB}
+A disposition to have occurrent beliefs that p is a standing belief that p if and only if the person’s acquiring an occurrent belief that p played a role in producing the disposition.
+\end{theorem}
+\end{frame}
+
+\begin{frame}{Third type of intention}
+\begin{block}{Intention buffer}
+ Suppose that whenever normally functioning human beings consciously acquire a distal intention to A that they do not proceed straight- away to revoke, there is an interesting internal effect. One possible effect is that the distal intention an executive attitude toward a plan is stored as an intention in an “intention buffer.” 
+\end{block}
+\end{frame}
+
+\begin{frame}{Third type of intention}
+\begin{block}{3Intention}
+While the agent is aware that he intends to A, the stored distal intention is an occurrent intention. Suppose that even if the agent forgets that he intended to A, the stored intention persists for a time. Because the intention is not itself a disposition to have occurrent intentions, it is not a standing intention. And if, during some span of time, it is neither at work in relevant ways nor a conscious intention, it is not an occurrent intention during that time.
+\end{block}
+
+\begin{block}{3Intention and standing intentions}
+Because he has a 3-intention to A, an agent has a disposition to acquire occurrent intentions to A therefore this is a reason to judge that the disposition counts as a standing intention to A.
+\end{block}
+\end{frame}
+
+
+\begin{frame}{Sufficient conditions for standing conditions}
+\begin{block}{Acquiring occurrent intentions' effect on standing intentions}
+An agent’s disposition to have occurrent intentions to A is a standing intention to A only if his having acquired an occurrent intention to A helps to account for the disposition’s existence
+\end{block}
+
+\begin{theorem}{SI}
+S has, throughout a span of time t, a standing intention to A, if \\
+(1) throughout t, S has a nondeviantly produced standing true belief that he acquired (or had) an intention to A and \\ 
+(2) he has nondeviantly come to be so constituted that the activation of this belief at any time during t will quickly generate an occurrent intention to A.
+\end{theorem}
+\end{frame}
+
+
 
 
 % Placing a * after \section means it will not show in the
