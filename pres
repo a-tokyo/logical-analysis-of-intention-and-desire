@@ -126,24 +126,6 @@
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Aim}
- \begin{block}{Aim}
-  Contributing to our growing understanding of the place of intentions in the lives of intelligent agents
- \end{block}
-  \begin{itemize}
-  \item {
-     Developing accounts of what it is for an intention to be occurrent.
-  }
-  \item {
-    Developing accounts of the persistence of an occurrent intention.
-  }
-  \item {
-   Something similar alongside some proposals for relatively short-term “standing” intentions.
-  }
-  \end{itemize}
-
-\end{frame}
-
 % Section and subsections will appear in the presentation overview
 % and table of contents.
 \section{Kinds of Intention}
@@ -277,7 +259,7 @@ However, one need not actually A at atime in order for one’s intention to A to
 
 \begin{frame}{Standing Intentions}
 \begin{block}{Standing Intentions}
-If standing intentions to A are understood on the model of a familiar conception of standing wants, they are wholly constituted by dispositions to have occurrent intentions to A. Now, not all dispositions to have occurrent intentions to A are promising candidates for being intentions.
+If standing intentions to A are understood on the model of a familiar conception of standing wants, they are wholly constituted by dispositions to have occurrent intentions to A.
 \end {block}
 \end{frame}
 
@@ -287,7 +269,7 @@ If standing intentions to A are understood on the model of a familiar conception
 \begin{frame}{Occurrent Intentions}{Sufficient Conditions}
 \begin{itemize}
     \item Intention is suitably at work at that time in producing relevant intentional actions or preparatory intentional actions
-    \item At that time the agent is aware that he intends to A and this intentions is not wholly constituted by a dispositio n to have occurrent intentions to A.
+    \item At that time the agent is aware that he intends to A and this intentions is not wholly constituted by a disposition to have occurrent intentions to A.
     \item A persists as an occurrent intention to A as long as it is suitably at work or is a conscious intention that satisfies condition 2.
 \end{itemize}
 \end{frame}
@@ -436,7 +418,7 @@ Because he has a 3-intention to A, an agent has a disposition to acquire occurre
 \end{block}
 \end{frame}
 
-
+\subsection{Proposal for persisting standing intentions conditions}
 \begin{frame}{Sufficient conditions for standing conditions}
 \begin{block}{Acquiring occurrent intentions' effect on standing intentions}
 An agent’s disposition to have occurrent intentions to A is a standing intention to A only if his having acquired an occurrent intention to A helps to account for the disposition’s existence
@@ -447,6 +429,15 @@ S has, throughout a span of time t, a standing intention to A, if \\
 (1) throughout t, S has a nondeviantly produced standing true belief that he acquired (or had) an intention to A and \\ 
 (2) he has nondeviantly come to be so constituted that the activation of this belief at any time during t will quickly generate an occurrent intention to A.
 \end{theorem}
+\end{frame}
+
+\begin{frame}{Conclusion}
+
+\begin{block}{Back to the Movie intention}
+At 3:00, Al may be aware that he intends to take Angela to a 7:00 movie without the occurrent intention’s doing any work of the kinds just mentioned at the time. If things work out, an occurrent intention to take Angela to a 7:00 movie will eventually help to produce appropriate actions.
+\end{block}
+
+
 \end{frame}
 
 
